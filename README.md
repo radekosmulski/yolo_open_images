@@ -1,4 +1,4 @@
-*If weights do not download for you, chances are the repository is over the git lfs quota. Please pull from the [bitbucket repository](https://bitbucket.org/dreamwalkerrr/yolo_open_images/src/master/) which does not have this limitation.*
+**If weights do not download for you, chances are the repository is over the git lfs quota. Please pull from the [bitbucket repository](https://bitbucket.org/dreamwalkerrr/yolo_open_images/src/master/) which does not have this limitation.**
 
 This repository contains yolov3 weights along with config files. The model achieves an mAP of 42.407 on the private LB for the [Kaggle Open Images challenge](https://www.kaggle.com/c/google-ai-open-images-object-detection-track/leaderboard).
 
