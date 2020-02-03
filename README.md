@@ -7,7 +7,7 @@ In order to use these weights you will need to have [darknet](https://github.com
 There are multiple ways to use darknet for detection. One way would be to create a txt file with paths to images you would like to run detection on and pointing to that file from the included yolo.data file.
 
 The command to run detection (assuming darknet is installed in the root of this repo) is:
-`./darknet/darknet detector valid yolo.data yolov3-spp.cfg yolov3-spp.backup`
+`./darknet/darknet detector valid yolo.data yolov3-spp.cfg yolov3-spp_final.weights`
 
 I am sharing these weights on the assumption that they might be useful to someone. I am unable to provide any support should you encounter any issues. Yolo is not very easy to troubleshoot and if you get a segfault it is up to you to figure out what went wrong.
 
